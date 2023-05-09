@@ -28,6 +28,7 @@
 #include "version.h"
 
 #include "common/xmalloc.h"
+char *rpc_cfg_file;
 
 struct cr_options opts;
 
